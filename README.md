@@ -1,2 +1,2 @@
 # Animals-Voice-Recognition
-voice recognition or speech recognition with animals voice study cases by recognizing voice patterns
+speech recognition or voice recognition with case studies of animal sounds by recognizing sound patterns
